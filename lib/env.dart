@@ -6,11 +6,11 @@ Map<String, dynamic> environment = {
 
     /// 🌍 The register URL domain that matches with Envato Purchase Code
     /// 🔑 Also, make sure to update the envatoPurchaseCode from configs/env.properties
-    'url': 'https://wclovers.mstore.io',
+    'url': 'https://wattanco.com/',
 
-    'consumerKey': 'ck_cf6b2a2966f2d908cc08ebaef1336b15f9a6697c',
-    'consumerSecret': 'cs_9756800a6b17a6c76bcde454de61fd30ce389fad',
-    'blog': 'https://wclovers.mstore.io',
+    'consumerKey': 'ck_178996427bc74fe81aeeea84e56dbf1485162d4e',
+    'consumerSecret': 'cs_21692e3469dd920bef376d3970ca7f7275f47221',
+    'blog': 'https://wattanco.com/',
 
     /// remove to use as native screen
     'forgetPassword':
