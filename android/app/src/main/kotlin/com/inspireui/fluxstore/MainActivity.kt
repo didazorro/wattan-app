@@ -1,4 +1,4 @@
-package com.inspireui.fluxstore
+package com.wattan.carrental
 
 import android.app.NotificationManager
 import android.content.Context

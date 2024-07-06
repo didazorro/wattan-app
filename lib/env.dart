@@ -49,7 +49,7 @@ Map<String, dynamic> environment = {
   },
   "appRatingConfig": {
     'showOnOpen': false,
-    'android': 'com.inspireui.fluxstore',
+    'android': 'com.wattan.carrental',
     'ios': '1469772800',
     'minDays': 7,
     'minLaunches': 10,
@@ -530,7 +530,7 @@ Map<String, dynamic> environment = {
     //The link your app will open
     "link": "https://mstore.io/",
     //----------* Android Setting *----------//
-    "androidPackageName": "com.inspireui.fluxstore",
+    "androidPackageName": "com.wattan.carrental",
     "androidAppMinimumVersion": 1,
     //----------* iOS Setting *----------//
     "iOSBundleId": "com.inspireui.mstore.flutter",
@@ -1096,12 +1096,12 @@ Map<String, dynamic> environment = {
     },
     "applePayConfig": {
       "enable": true,
-      "merchantId": "merchant.com.inspireui.fluxstore",
+      "merchantId": "merchant.com.wattan.carrental",
     },
     "googlePayConfig": {
       "enable": true,
       "stripePublishableKey": "pk_test_O3awus9i5mA2wIX9a7pU3MSi00gZPcpJWX",
-      "merchantId": "merchant.com.inspireui.fluxstore"
+      "merchantId": "merchant.com.wattan.carrental"
     },
   },
   "stripeConfig": {
@@ -1131,7 +1131,7 @@ Map<String, dynamic> environment = {
     "secret":
         "ECbFREri7NFj64FI_9WzS6A0Az2DqNLrVokBo0ZBu4enHZKMKOvX45v9Y1NBPKFr6QJv2KaSp5vk5A1G",
     "returnUrl":
-        "com.inspireui.fluxstore://paypalpay", // Example: "your.android.package.name:://paypalpay"
+        "com.wattan.carrental://paypalpay", // Example: "your.android.package.name:://paypalpay"
     "production": false,
     "paymentMethodId": "paypal", //ppcp-gateway
     "enabled": true,
@@ -1201,11 +1201,11 @@ Map<String, dynamic> environment = {
   },
   "inAppPurchaseConfig": {
     'consumableProductIDs': [
-      'com.inspireui.fluxstore.test',
+      'com.wattan.carrental.test',
     ],
     'nonConsumableProductIDs': [],
     'subscriptionProductIDs': [
-      'com.inspireui.fluxstore.subscription.test',
+      'com.wattan.carrental.subscription.test',
     ],
     "enabled": false
   },
