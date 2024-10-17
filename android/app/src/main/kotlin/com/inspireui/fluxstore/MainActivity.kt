@@ -1,4 +1,4 @@
-package com.wattan.carrental
+package com.wattanco.com
 
 import android.app.NotificationManager
 import android.content.Context

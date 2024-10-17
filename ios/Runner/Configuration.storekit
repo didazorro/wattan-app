@@ -15,7 +15,7 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.wattan.carrental.test",
+      "productID" : "com.wattanco.com.test",
       "referenceName" : "Test",
       "type" : "Consumable"
     }

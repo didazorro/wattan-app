@@ -1,575 +1,530 @@
 {
-    "HorizonLayout": [
-        {
-            "layout": "logo",
-            "showMenu": true,
-            "showSearch": true,
-            "showLogo": true,
-            "enableBackground": true
-        },
-        {
-            "layout": "category",
-            "type": "icon",
-            "useFor": "mobile",
-            "wrap": false,
-            "size": 1.0,
-            "radius": 50.0,
-            "enableBackground": true,
-            "items": [
-                {
-                    "category": 18,
-                    "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
-                    "colors": [
-                        "#3CC2BF",
-                        "#3CC2BF"
-                    ],
-                    "originalColor": false
-                },
-                {
-                    "category": 24,
-                    "label": "شنطة",
-                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62abccf14cb63646c1706/previews/60a62abdcf14cb63646c1728/download/ic_dress.png",
-                    "colors": [
-                        "#3E6AB5",
-                        "#3E6AB5"
-                    ]
-                },
-                {
-                    "category": 25,
-                    "label": "الحلل",
-                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac38749561a23fed73c/previews/60a62ac38749561a23fed76d/download/ic_shorts.png",
-                    "colors": [
-                        "#53A2CC",
-                        "#53A2CC"
-                    ]
-                },
-                {
-                    "category": 28,
-                    "label": "أحذية",
-                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac27eb3b0027e045f80/previews/60a62ac27eb3b0027e045fee/download/ic_shoes.png",
-                    "colors": [
-                        "#53688A",
-                        "#53688A"
-                    ]
-                },
-                {
-                    "category": 29,
-                    "label": "جينز",
-                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac568d4170599acd4ca/previews/60a62ac568d4170599acd4dd/download/ic_tie.png",
-                    "colors": [
-                        "#43506A",
-                        "#43506A"
-                    ]
-                },
-                {
-                    "category": 30,
-                    "label": "جينز رجل",
-                    "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62ac048c3790a65a5f75f/previews/60a62ac048c3790a65a5f763/download/ic_panties.png",
-                    "colors": [
-                        "#12B58C",
-                        "#12B58C"
-                    ]
-                }
-            ]
-        },
-        {
-            "layout": "bannerImage",
-            "isSlider": true,
-            "autoPlay": false,
-            "showNumber": false,
-            "design": "default",
-            "showBackGround": true,
-            "radius": 2.0,
-            "enableBackground": true,
-            "items": [
-                {
-                    "category": 29,
-                    "image": "https://trello.com/1/cards/5f8fe6093cd3ef24d9ede5f5/attachments/5f8fe62076ec8884a587b043/previews/5f8fe62176ec8884a587b05c/download/Mobile_Template_1b.png",
-                    "padding": 15.0
-                },
-                {
-                    "category": 28,
-                    "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
-                    "padding": 15.0
-                },
-                {
-                    "product": 30,
-                    "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
-                    "padding": 15.0
-                }
-            ],
-            "itemsWeb": [
-                {
-                    "category": 29,
-                    "image": "https://cln.sh/41hyDrzG+",
-                    "padding": 15.0
-                },
-                {
-                    "category": 28,
-                    "image": "https://cln.sh/5nl2ZsKG+",
-                    "padding": 15.0
-                },
-                {
-                    "product": 30,
-                    "image": "https://cln.sh/q24Xpr1c+",
-                    "padding": 15.0
-                }
-            ]
-        },
-        {
-            "layout": "category",
-            "type": "twoRow",
-            "wrap": true,
-            "useFor": "web",
-            "showShortDescription": true,
-            "size": 1.0,
-            "radius": 150.0,
-            "title": "الموضات",
-            "spacing": 12.0,
-            "items": [
-                {
-                    "category": "23",
-                    "image": "https://images.unsplash.com/photo-1604508230015-5a54faf1fa56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "تي شيرت",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "29",
-                    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "جينز",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "28",
-                    "image": "https://images.unsplash.com/photo-1594587639781-a68a2796bb90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "السترة",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "18",
-                    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "بدلة",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "26",
-                    "image": "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "فستان",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "24",
-                    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=738&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "شنطة",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "20",
-                    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "نظارات",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "22",
-                    "image": "https://images.unsplash.com/photo-1531399395381-6603d3b9899f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "قبعة",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "23",
-                    "image": "https://images.unsplash.com/photo-1604508230015-5a54faf1fa56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "تي شيرت",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "29",
-                    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "جينز",
-                    "onSale": false,
-                    "isFeatured": false
-                }
-            ],
-            "line": false,
-            "marginLeft": 16.0,
-            "marginRight": 16.0,
-            "marginTop": 10.0,
-            "marginBottom": 10.0,
-            "paddingX": 10.0,
-            "paddingY": 10.0,
-            "marginX": 0.0,
-            "marginY": 0.0,
-            "hideTitle": false,
-            "noBackground": false,
-            "imageBorderWidth": 0.0,
-            "imageBorderColor": "ffe61a00",
-            "imageBorderStyle": "dot",
-            "imageSpacing": 0.0,
-            "border": 0.6,
-            "enableBorder": false,
-            "textAlignment": "topCenter",
-            "imageBoxFit": "fitWidth",
-            "columns": 4,
-            "itemSize": {
-                "width": 270.0,
-                "height": 118.0
-            }
-        },
-        {
-            "key": "v14g5clzc34tf8",
-            "name": "للبيع اليوم ⚡",
-            "layout": "saleOff",
-            "isSnapping": true,
-            "rows": 1,
-            "columns": 0,
-            "imageBoxfit": "cover",
-            "imageRatio": 1.2,
-            "hMargin": 9.0,
-            "vMargin": 30.0,
-            "hPadding": 8.0,
-            "vPadding": 6.0,
-            "pos": 400,
-            "showStockStatus": false,
-            "enableRating": true,
-            "hideTitle": false,
-            "hideStore": false,
-            "onSale": true,
-            "hidePrice": false,
-            "featured": false,
-            "showHeart": true,
-            "showCartButton": false,
-            "cartIconRadius": 9.0,
-            "showQuantity": false,
-            "showCartIconColor": false,
-            "showCartIcon": false,
-            "enableBottomAddToCart": false,
-            "cardDesign": "card",
-            "borderRadius": 12.0,
-            "backgroundRadius": 0.0,
-            "showCartButtonWithQuantity": false,
-            "category": "26",
-            "tag": null,
-            "showCountDown": true,
-            "backgroundColor": "ffF1F8FA",
-            "backgroundImage": "https://trello.com/1/cards/6237d7a3eb71c81e0a45964b/attachments/626281b57aedd4517a682e40/previews/626281b67aedd4517a682e5a/download/sale4.png",
-            "spaceWidth": 130.0,
-            "backgroundHeight": 288.0,
-            "backgroundBoxFit": "contain",
-            "parallax": true,
-            "parallaxImageRatio": 1.2,
-            "boxShadow": {
-                "blurRadius": 14.0,
-                "colorOpacity": 0.1,
-                "spreadRadius": 10.0,
-                "x": 0.0,
-                "y": 6.0
-            },
-            "hideEmptyProductLayout": false,
-            "enableBackground": true
-        },
-        {
-            "name": "مجموعات الرجل",
-            "image": "",
-            "layout": "twoColumn",
-            "category": 21,
-            "enableBackground": true
-        },
-        {
-            "layout": "bannerImage",
-            "design": "static",
-            "fit": "fitWidth",
-            "marginLeft": 0.0,
-            "useFor": "mobile",
-            "enableBackground": true,
-            "items": [
-                {
-                    "image": "https://trello.com/1/cards/5fb8de4a9ffe12204a2a3607/attachments/5fb8de57d9356e0af474cc94/previews/5fb8de58d9356e0af474cca0/download/image.png",
-                    "coupon": "blackf",
-                    "padding": 15.0,
-                    "radius": 9.0
-                }
-            ],
-            "marginBottom": 0.0,
-            "height": 0.15,
-            "marginRight": 0.0,
-            "marginTop": 20.0
-        },
-        {
-            "name": "وجهة نظر حديثة",
-            "layout": "recentView"
-        },
-        {
-            "name": "منشورات المدونة لدينا",
-            "layout": "blog"
-        },
-        {
-            "name": "مجموعات جديدة",
-            "layout": "staggered",
-            "limit": 20,
-            "category": 29
-        },
-        {
-            "layout": "bannerGrid",
-            "startImage": "https://cln.sh/v88KWKn1+",
-            "endImage": "https://cln.sh/msXl6bll+",
-            "centerImage": "https://cln.sh/K84GT5PB+",
-            "centerTopImage": "https://cln.sh/SSXPYGCB+",
-            "centerBottomImage": "https://cln.sh/MZF24H9H+",
-            "borderRadius": 8.0,
-            "blog": 8743
-        }
-    ],
-    "Setting": {
-        "MainColor": "#3FC1BE",
-        "FontFamily": "Roboto",
-        "FontHeader": "Raleway",
-        "ProductListLayout": "list",
-        "StickyHeader": false,
-        "ShowChat": true,
-        "useMaterial3": false,
-        "AgeRestriction": {
-            "enable": false,
-            "imageUrl": "",
-            "backgroundImageUrl": "",
-            "title": "مرحبا بكم في متجرنا\nيجب أن تكون 21 أو أكبر للدخول",
-            "deniedMessage": "أنت لست من العمر القانوني لاستخدام هذا التطبيق",
-            "hintMessage": "ما هو عام ميلادك؟",
-            "minimumAge": 21,
-            "useLogo": true,
-            "alwaysShowUponOpen": true
-        },
-        "AboutUS": "https://codecanyon.net/user/inspireui",
-        "Privacy": "https://inspireui.com/privacy/",
-        "FAQ": "https://products.inspireui.com/have-a-question/",
-        "News": "https://products.inspireui.com/",
-        "Support": "https://support.inspireui.com/",
-        "DownloadApp": "https://fluxstore.app/",
-        "SmartEngagementBanner": {
-            "popup": {
-                "enable": false,
-                "data": {
-                    "layout": "bannerImage",
-                    "design": "static",
-                    "fit": "fitHeight",
-                    "marginLeft": null,
-                    "items": [
-                        {
-                            "image": "https://i.imgur.com/ZL1LO75.png",
-                            "showSubcategory": false,
-                            "bannerWithProduct": false,
-                            "defaultShowProduct": false,
-                            "products": [],
-                            "category": "22",
-                            "padding": 0.0
-                        }
-                    ],
-                    "marginBottom": 10.0,
-                    "height": 0.45,
-                    "marginRight": null,
-                    "marginTop": 10.0,
-                    "enableParallax": false,
-                    "parallaxImageRatio": 1.2,
-                    "isHorizontal": false,
-                    "parallax": false,
-                    "key": "p2oq4zc4hg"
-                },
-                "alwaysShowUponOpen": true,
-                "closePosition": "topRight",
-                "updatedTime": 1661314494281
-            },
-            "flexible": {
-                "enable": false,
-                "data": {
-                    "alignment": "topCenter",
-                    "marginTop": 0.0,
-                    "marginBottom": 0.0,
-                    "items": [
-                        {
-                            "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
-                            "width": 100.0,
-                            "height": 80.0,
-                            "borderRadius": 2.0,
-                            "marginLeft": 0.0,
-                            "marginRight": 0.0,
-                            "textFontSize": 14.0,
-                            "useMaxWidth": true,
-                            "navigator": {
-                                "showSubcategory": false,
-                                "coupon": "blackf"
-                            }
-                        }
-                    ],
-                    "layout": "button"
-                },
-                "canDrag": true,
-                "canClose": true,
-                "width": 100.0,
-                "height": 100.0
-            },
-            "sticky": {
-                "enable": false,
-                "data": {
-                    "layout": "bannerImage",
-                    "design": "static",
-                    "fit": "fitWidth",
-                    "marginLeft": 10.0,
-                    "items": [
-                        {
-                            "image": "https://i.imgur.com/LUaEM3v.jpeg",
-                            "showSubcategory": false,
-                            "bannerWithProduct": false,
-                            "defaultShowProduct": false,
-                            "products": [],
-                            "coupon": "halfprice",
-                            "padding": 0.0,
-                            "radius": 9.0
-                        }
-                    ],
-                    "marginBottom": 10.0,
-                    "marginRight": 10.0,
-                    "marginTop": 10.0,
-                    "height": 0.2,
-                    "enableParallax": false,
-                    "parallaxImageRatio": 1.2,
-                    "isHorizontal": false,
-                    "parallax": false,
-                    "key": "ga8oe39k5t"
-                }
-            }
-        }
+    "HorizonLayout":[
+    {
+    "image":"https://i.imgur.com/W1odVZK.png",
+    "layout":"logo",
+    "opacity":1,
+    "iconSize":24,
+    "logoSize":100,
+    "menuIcon":{
+    "name":"text_justifyleft",
+    "fontFamily":"CupertinoIcons"
     },
-    "TabBar": [
-        {
-            "layout": "home",
-            "icon": "assets/icons/tabs/icon-home.png"
-        },
-        {
-            "layout": "videos",
-            "icon": "assets/icons/tabs/icon-videos.png"
-        },
-        {
-            "layout": "category",
-            "categoryLayout": "card",
-            "icon": "assets/icons/tabs/icon-category.png"
-        },
-        {
-            "layout": "cart",
-            "icon": "assets/icons/tabs/icon-cart2.png"
-        },
-        {
-            "layout": "profile",
-            "icon": "assets/icons/tabs/icon-user.png",
-            "showChat": true,
-            "showBackground": true,
-            "styleItem": "listTile",
-            "settingStyle": "normal"
-        }
-    ],
-    "searchSuggestion": [
-        "هذه بعض الاقتراحات:",
-        "مطبعة",
-        "تي شيرت",
-        "جيرسي",
-        "زُنط"
-    ],
-    "PrivacyPoliciesPageUrlOrId": "https://inspireui.com/privacy/",
-    "MetaSeo": {
-        "app": {
-            "excludes": [
-                "checkout"
-            ],
-            "config": {
-                "author": "InspireUI",
-                "description": "All-In-One حلول وخدمات للهواتف المحمولة للشركات الناشئة والمطورين ورجال الأعمال والمزيد ...",
-                "keywords": [
-                    "Flutter",
-                    "Dart",
-                    "SEO",
-                    "Meta",
-                    "Web",
-                    "FluxStore",
-                    "FluxBuilder"
-                ]
-            }
-        },
-        "routes": [
-            {
-                "route": "dashboard",
-                "config": {
-                    "author": "InspireUI",
-                    "description": "All-In-One حلول وخدمات للهواتف المحمولة للشركات الناشئة والمطورين ورجال الأعمال والمزيد ...",
-                    "keywords": [
-                        "Flutter",
-                        "Dart",
-                        "SEO",
-                        "Meta",
-                        "Web",
-                        "FluxStore"
-                    ]
-                }
-            }
-        ]
+    "showCart":false,
+    "showLogo":true,
+    "showMenu":true,
+    "iconRadius":6,
+    "showSearch":true,
+    "iconOpacity":0,
+    "preview_data":false,
+    "showBadgeCart":false,
+    "iconSpreadRadius":0,
+    "showNotification":false
     },
-    "overrideTranslation": {
-        "@@locale": "ar",
-        "copyright": "حقوق الطبع والنشر © 2024 Inspireui Ltd. جميع الحقوق محفوظة."
+    {
+    "fit":"cover",
+    "items":[
+    {
+    "image":"https://i.imgur.com/YgbAyPi.jpeg",
+    "video":"",
+    "radius":0,
+    "padding":0,
+    "category":"-1",
+    "products":[],
+    "showSubcategory":false,
+    "bannerWithProduct":false,
+    "defaultShowProduct":false
     }
-}
+    ],
+    "design":"static",
+    "height":0.3,
+    "layout":"bannerImage",
+    "parallax":false,
+    "marginTop":0,
+    "marginLeft":0,
+    "marginRight":0,
+    "isHorizontal":false,
+    "marginBottom":0,
+    "preview_data":false,
+    "enableParallax":false,
+    "enableBackground":false,
+    "parallaxImageRatio":1.2
+    },
+    {
+    "font":"Roboto",
+    "type":"static",
+    "title":"بحث",
+    "height":41,
+    "layout":"header_search",
+    "radius":13,
+    "rotate":[],
+    "fontSize":16,
+    "minWidth":0,
+    "alignment":"centerLeft",
+    "boxShadow":{
+    "x":7,
+    "y":5,
+    "blurRadius":7.5,
+    "colorOpacity":0.1,
+    "spreadRadius":2
+    },
+    "marginTop":0,
+    "fontWeight":400,
+    "isSafeArea":false,
+    "marginLeft":15,
+    "paddingTop":0,
+    "showSearch":true,
+    "borderInput":true,
+    "marginRight":15,
+    "paddingLeft":5,
+    "textOpacity":0.8,
+    "marginBottom":10,
+    "paddingRight":15,
+    "preview_data":false,
+    "paddingBottom":0,
+    "usePrimaryColor":true,
+    "enableBackground":false,
+    "backgroundGradientColor":[]
+    },
+    {
+    "line":false,
+    "size":1,
+    "type":"image",
+    "wrap":true,
+    "items":[
+    {
+    "image":"https://i.imgur.com/GopjqGU.png",
+    "onSale":false,
+    "category":"411",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    },
+    {
+    "image":"https://i.imgur.com/V317MtK.png",
+    "onSale":false,
+    "category":"409",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    },
+    {
+    "image":"https://i.imgur.com/hyewh5M.png",
+    "onSale":false,
+    "category":"408",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    },
+    {
+    "image":"https://i.imgur.com/LrufYBU.png",
+    "onSale":false,
+    "category":"406",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    },
+    {
+    "image":"https://i.imgur.com/3FwOrQS.png",
+    "onSale":false,
+    "category":"410",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    },
+    {
+    "image":"https://i.imgur.com/GAWcgy0.png",
+    "onSale":false,
+    "category":"407",
+    "showText":false,
+    "isFeatured":false,
+    "productType":false,
+    "originalColor":true,
+    "showDescription":false,
+    "keepDefaultTitle":false
+    }
+    ],
+    "border":0.6,
+    "layout":"category",
+    "radius":150,
+    "columns":3,
+    "marginX":0,
+    "marginY":0,
+    "spacing":12,
+    "itemSize":{
+    "width":270,
+    "height":118
+    },
+    "paddingX":10,
+    "paddingY":10,
+    "hideTitle":false,
+    "marginTop":10,
+    "marginLeft":0,
+    "imageBoxFit":"fitWidth",
+    "marginRight":0,
+    "enableBorder":false,
+    "imageSpacing":0,
+    "marginBottom":10,
+    "noBackground":false,
+    "preview_data":false,
+    "gradientStyle":false,
+    "labelFontSize":14,
+    "separateWidth":24,
+    "textAlignment":"topCenter",
+    "horizontalItem":false,
+    "imageBorderColor":"ffe61a00",
+    "imageBorderStyle":"dot",
+    "imageBorderWidth":0,
+    "showShortDescription":true
+    },
+    {
+    "name":"مختارات",
+    "rows":3,
+    "image":"",
+    "layout":"fourColumn",
+    "onSale":false,
+    "columns":0,
+    "hMargin":18,
+    "useSort":false,
+    "vMargin":0,
+    "featured":false,
+    "hPadding":0,
+    "parallax":false,
+    "vPadding":0,
+    "hidePrice":false,
+    "hideStore":false,
+    "hideTitle":false,
+    "showHeart":false,
+    "titleLine":2,
+    "cardDesign":"simpleCard",
+    "imageRatio":1,
+    "isSnapping":false,
+    "imageBoxfit":"cover",
+    "borderRadius":0,
+    "enableRating":true,
+    "preview_data":false,
+    "showCartIcon":true,
+    "showCategory":false,
+    "showQuantity":false,
+    "showCountDown":false,
+    "showOnlyImage":false,
+    "cartIconRadius":5,
+    "showCartButton":false,
+    "showStockStatus":true,
+    "backgroundRadius":10,
+    "enableAutoSliding":false,
+    "showCartIconColor":true,
+    "useCircularRadius":false,
+    "parallaxImageRatio":1.2,
+    "enableBottomAddToCart":false,
+    "productListItemHeight":125.4,
+    "hideEmptyProductLayout":false,
+    "hideEmptyProductListRating":false,
+    "showCartButtonWithQuantity":false
+    }
+    ],
+    "Setting":{
+    "ShowChat":true,
+    "MainColor":null,
+    "FontFamily":"Alexandria",
+    "FontHeader":"Alexandria",
+    "StickyHeader":true,
+    "TabBarConfig":{
+    "color":null,
+    "enable":true,
+    "iconSize":22.968195913186673,
+    "colorCart":null,
+    "colorIcon":"ff7a7b7f",
+    "marginTop":0,
+    "isSafeArea":true,
+    "marginLeft":0,
+    "paddingTop":0,
+    "enableOnTop":false,
+    "marginRight":0,
+    "paddingLeft":0,
+    "marginBottom":0,
+    "paddingRight":0,
+    "showFloating":false,
+    "showMinimize":false,
+    "enableDivider":true,
+    "paddingBottom":0,
+    "radiusTopLeft":0,
+    "TabBarFloating":{
+    "color":null,
+    "width":50,
+    "height":50,
+    "radius":50,
+    "location":null,
+    "position":0,
+    "elevation":2,
+    "isCoverMode":false,
+    "notchMargin":4,
+    "floatingType":"circle"
+    },
+    "bottomBarStyle":"static",
+    "indicatorStyle":"none",
+    "radiusTopRight":0,
+    "TabBarIndicator":{
+    "color":null,
+    "height":0,
+    "radius":0,
+    "strokeWidth":0,
+    "tabPosition":"bottom",
+    "paintingStyle":"fill",
+    "topLeftRadius":0,
+    "topRightRadius":0,
+    "verticalPadding":0,
+    "bottomLeftRadius":0,
+    "bottomRightRadius":0,
+    "horizontalPadding":0,
+    "distanceFromCenter":0
+    },
+    "colorActiveIcon":"ffff672d",
+    "alwaysShowTabBar":false,
+    "radiusBottomLeft":0,
+    "showFloatingClip":false,
+    "radiusBottomRight":0
+    },
+    "ProductDetail":"simpleType",
+    "AgeRestriction":{
+    "title":"Welcome to our shop\nYou must be 21 or older to enter",
+    "enable":false,
+    "useLogo":true,
+    "imageUrl":"",
+    "minimumAge":21,
+    "hintMessage":"What is your year of birth?",
+    "deniedMessage":"You are not of legal age to use this application",
+    "alwaysShowUponOpen":true,
+    "backgroundImageUrl":""
+    },
+    "ProductListLayout":"list",
+    "SmartEngagementBanner":{
+    "popup":{
+    "data":{
+    "fit":"fitHeight",
+    "key":"p2oq4zc4hg",
+    "items":[
+    {
+    "image":"https://i.imgur.com/ZL1LO75.png",
+    "padding":0,
+    "category":"22",
+    "products":[],
+    "showSubcategory":false,
+    "bannerWithProduct":false,
+    "defaultShowProduct":false
+    }
+    ],
+    "design":"static",
+    "height":0.45,
+    "layout":"bannerImage",
+    "parallax":false,
+    "marginTop":10,
+    "marginLeft":null,
+    "marginRight":null,
+    "isHorizontal":false,
+    "marginBottom":10,
+    "enableParallax":false,
+    "parallaxImageRatio":1.2
+    },
+    "enable":false,
+    "updatedTime":1661314494281,
+    "closePosition":"topRight",
+    "alwaysShowUponOpen":true
+    },
+    "sticky":{
+    "data":{
+    "fit":"fitWidth",
+    "key":"ga8oe39k5t",
+    "items":[
+    {
+    "image":"https://i.imgur.com/LUaEM3v.jpeg",
+    "coupon":"halfprice",
+    "radius":9,
+    "padding":0,
+    "products":[],
+    "showSubcategory":false,
+    "bannerWithProduct":false,
+    "defaultShowProduct":false
+    }
+    ],
+    "design":"static",
+    "height":0.2,
+    "layout":"bannerImage",
+    "parallax":false,
+    "marginTop":10,
+    "marginLeft":10,
+    "marginRight":10,
+    "isHorizontal":false,
+    "marginBottom":10,
+    "enableParallax":false,
+    "parallaxImageRatio":1.2
+    },
+    "enable":false
+    },
+    "flexible":{
+    "data":{
+    "items":[
+    {
+    "image":"https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
+    "width":100,
+    "height":80,
+    "navigator":{
+    "coupon":"blackf",
+    "showSubcategory":false
+    },
+    "marginLeft":0,
+    "marginRight":0,
+    "useMaxWidth":true,
+    "borderRadius":2,
+    "textFontSize":14
+    }
+    ],
+    "layout":"button",
+    "alignment":"topCenter",
+    "marginTop":0,
+    "marginBottom":0
+    },
+    "width":100,
+    "enable":false,
+    "height":100,
+    "canDrag":true,
+    "canClose":true}}
+    },
+    "TabBar":[
+    {
+    "pos":100,
+    "icon":"home",
+    "layout":"home",
+    "visible":true,
+    "fontFamily":"CupertinoIcons",
+    "fullscreen":false,
+    "showOriginalColor":false
+    },
+    {
+    "pos":200,
+    "icon":"rectangle_grid_1x2",
+    "layout":"vendors",
+    "parallax":false,
+    "fontFamily":"CupertinoIcons",
+    "fullscreen":false,
+    "showSearch":true,
+    "vendorLayout":"card",
+    "categoryLayout":"card",
+    "showOriginalColor":false,
+    "parallaxImageRatio":1.2
+    },
+    {
+    "pos":300,
+    "icon":"bag",
+    "layout":"cart",
+    "visible":true,
+    "fontFamily":"CupertinoIcons",
+    "fullscreen":false,
+    "showOriginalColor":false
+    },
+    {
+    "pos":400,
+    "icon":"person",
+    "layout":"profile",
+    "visible":true,
+    "settings":["wallet",
+    "wishlist",
+    "darkTheme",
+    "order",
+    "point",
+    "rating",
+    "privacy",
+    "products"],
+    "styleItem":"flat",
+    "background":"https://i.imgur.com/EyMCiUJ.jpeg",
+    "defaultTab":false,
+    "fontFamily":"CupertinoIcons",
+    "fullscreen":false,
+    "showBackground":false,
+    "showOriginalColor":false,
+    "subGeneralSetting":{
+    "privacy":{
+    "script":"",
+    "webUrl":"https://wattanco.com/%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/",
+    "enableClose":false,
+    "webViewMode":false,
+    "enableForward":false,
+    "requiredLogin":false,
+    "enableBackward":true}}
+    }
+    ],
+    "AppBar":{
+    },
+    "Drawer":{
+    "key":"GYoyDGuzTI",
+    "logo":null,
+    "items":[
+    {
+    "show":true,
+    "type":"home"
+    },
+    {
+    "show":false,
+    "type":"blog"
+    },
+    {
+    "show":true,
+    "type":"login"
+    },
+    {
+    "show":true,
+    "type":"category"
+    },
+    {
+    "show":false,
+    "type":"categories"
+    },
+    {
+    "show":false,
+    "type":"cart"
+    },
+    {
+    "show":false,
+    "type":"profile"
+    }
+    ],
+    "enable":true,
+    "filter":0,
+    "safeArea":false,
+    "iconColor":null,
+    "textColor":null,
+    "logoConfig":{
+    "boxFit":"cover",
+    "height":38,
+    "marginTop":60,
+    "marginLeft":5,
+    "marginRight":0,
+    "marginBottom":10
+    },
+    "zoomConfig":null,
+    "colorFilter":null,
+    "subDrawerItem":{
+    },
+    "backgroundColor":"ffffffff",
+    "backgroundImage":null
+    },
+    "overrideTranslation":{
+    "buyNow":"احجز الآن",
+    "@@locale":"ar",
+    "startShopping":"احجز سيارتك الآن",
+    "continueToShipping":"اكمال الحجز"}}

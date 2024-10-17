@@ -15,7 +15,7 @@
           "locale" : "en_GB"
         }
       ],
-      "productID" : "com.wattan.carrental.test",
+      "productID" : "com.wattanco.com.test",
       "referenceName" : "In App Purchase Test",
       "type" : "Consumable"
     },
@@ -63,7 +63,7 @@
           "localizations" : [
 
           ],
-          "productID" : "com.wattan.carrental.subscription.test",
+          "productID" : "com.wattanco.com.subscription.test",
           "recurringSubscriptionPeriod" : "P1M",
           "referenceName" : "Subscription Test",
           "subscriptionGroupID" : "21093766",
